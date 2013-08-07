@@ -1,0 +1,17 @@
+{
+  "name": "Dillinger",
+  "description": "The last Markdown editor, ever. http://dillinger.io",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "*://dillinger.io"
+    ],
+    "launch": {
+      "web_url": "http://dillinger.io"
+    }
+  },
+  "icons": {
+    "128": "avatar_d_128x128.png"
+  }  
+}
