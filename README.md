@@ -10,7 +10,7 @@ You can load this extension directly in Chrome by doing the following:
 1. Clone the repo to your machine
 2. Open Chrome, navigate to `chrome://extensions`
 3. Check _Developer mode_ in the upper right corner
-4. Click 'Load unpacked extension'
+4. Click _Load unpacked extension_
 5. Navigate to your local version of this repo
 6. Click _OK_
 
